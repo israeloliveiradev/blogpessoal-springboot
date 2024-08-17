@@ -23,8 +23,11 @@ public class Tema {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
+
+
+	private String autor;
 	
-	@NotNull(message = "O atributo Descrição é Obrigatório!")
+
 	private String descricao;
 	
 	@OneToMany(fetch = FetchType.LAZY, mappedBy = "tema", cascade = CascadeType
@@ -57,8 +60,12 @@ public class Tema {
 	public void setDescricao(String descricao) {
 		this.descricao = descricao;
 	}
-	
-	
-	
 
+	public String getAutor() {
+		return autor;
+	}
+
+	public void setAutor(String autor) {
+		this.autor = autor;
+	}
 }
