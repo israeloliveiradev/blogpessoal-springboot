@@ -36,7 +36,8 @@
  <a href="#improvements">Melhorias em Andamento</a> • 
  <a href="#installation">Instalação</a> • 
  <a href="#technologies">Tecnologias</a> •
- <a href="#prints">Prints</a>
+ <a href="#prints">Prints</a> •
+ <a href="https://github.com/israeloliveiradev/blogpessoal-react">Front End</a>
 </p>
 
 ## 📌 Sobre
