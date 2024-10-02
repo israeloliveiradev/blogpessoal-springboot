@@ -32,7 +32,7 @@
 
 <p align="center">
  <a href="#about">Sobre</a> •
- <a href="#features">Features</a> •
+ <a href="##features">Features</a> •
  <a href="#improvements">Melhorias em Andamento</a> • 
  <a href="#installation">Instalação</a> • 
  <a href="#technologies">Tecnologias</a> •
